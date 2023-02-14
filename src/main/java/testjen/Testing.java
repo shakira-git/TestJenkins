@@ -1,4 +1,4 @@
-package test;
+package testjen;
 
 public class Testing {
 
