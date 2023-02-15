@@ -9,6 +9,8 @@ public class Testing {
 		System.out.println("SUCESS!!!   " +System.currentTimeMillis());
 		Logger log = Logger.getLogger("log");
 		log.info("success");
+		
+		System.out.println("DEMO");
 	}
 
 }
